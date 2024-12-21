@@ -3,7 +3,7 @@
 import { useState } from "react"
 
 import { Search, RefreshCw, PlusCircle } from 'lucide-react'
-import SideBar from "./SideBar"
+import SideBar from "../components/SideBar.jsx"
 
 const repositories = [
   {
